@@ -1,6 +1,6 @@
 
   
-# Hipo case
+# Image Search
 
 In this web application, users will explore the photos published to Unsplash in a certain collection with a certain keyword. [If you want to see online demo, click it](https://hipo-case.vercel.app/)
 
